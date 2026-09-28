@@ -1,0 +1,17 @@
+# .NET
+bin/
+obj/
+
+# JetBrains Rider
+.idea/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Local development config
+appsettings.Development.json
+
+# Video nếu không muốn đưa lên Git
+# *.mp4
