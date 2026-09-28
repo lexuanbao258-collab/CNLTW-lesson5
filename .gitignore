@@ -14,4 +14,4 @@ obj/
 appsettings.Development.json
 
 # Video nếu không muốn đưa lên Git
-# *.mp4
+*.mp4
